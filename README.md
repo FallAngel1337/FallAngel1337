@@ -10,7 +10,7 @@ I'm a systems programmer by passion
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm libertarian
 
-### You ping me through
+### You can ping me through
 ![Discord](https://dcbadge.vercel.app/api/shield/335803503715024906)
 
 ### My stats
