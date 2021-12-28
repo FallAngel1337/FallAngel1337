@@ -20,4 +20,6 @@ I'm a systems programmer by passion
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallAngel1337&layout=compact&theme=merko)
 
 
+![Snake](https://raw.githubusercontent.com/FallAngel1337/FallAngel1337/output/github-contribution-grid-snake.svg)
+
 _I use MS Windows BTW_  🪟
