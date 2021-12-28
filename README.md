@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, how you doing? 👋
 
-<!--
-**FallAngel1337/FallAngel1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems programmer by passion
 
-Here are some ideas to get you started:
+**More about me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [OPM](https://github.com/0xc0ffeec0de/opm)
+- 🦀 In love with the [_The Rust Programming Language_](https://www.rust-lang.org)
+- 🌱 I’m currently learning Rust and networking in depth
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm libertarian
+
+### You ping me through
+![Discord](https://dcbadge.vercel.app/api/shield/335803503715024906)
+
+### My stats
+
+![FallAngel's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallAngel1337&count_private=true&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallAngel1337&layout=compact&theme=merko)
+
+
+_I use MS Windows BTW_  🪟
