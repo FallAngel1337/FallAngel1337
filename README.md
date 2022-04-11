@@ -4,7 +4,7 @@ I'm a systems programmer by passion
 
 **More about me:**
 
-- 🔭 I’m currently working on [OPM](https://github.com/0xc0ffeec0de/opm)
+- 🔭 I’m currently working on nothing at all ¯\\_(ツ)_/¯
 - 🦀 In love with the [_The Rust Programming Language_](https://www.rust-lang.org)
 - 🌱 I’m currently learning Rust and networking in depth
 - 😄 Pronouns: he/him
