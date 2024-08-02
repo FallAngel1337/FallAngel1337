@@ -1,15 +1,14 @@
-```rs
-struct Me {
-  name: &'static str,
-  age: usize,
-  pronouns: Pronouns
-}
+```hs
+data Me = Me
+  { name    :: String
+  , age     :: Int
+  } deriving (Show)
 
-let me = Me {
-  name: "FallAngel",
-  age: 18,
-  pronouns: "He/Him".into()
-}
+me :: Me
+me = Me { name = "FallAngel", age = 20 }
+
+main :: IO ()
+main = print me
 ```
 
 ![Discord](https://dcbadge.vercel.app/api/shield/335803503715024906)
