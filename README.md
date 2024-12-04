@@ -1,14 +1,11 @@
-```hs
-data Me = Me
-  { name    :: String
-  , age     :: Int
-  } deriving (Show)
+```jl
+struct Me
+    name::String
+    age::Int
+end
 
-me :: Me
-me = Me { name = "FallAngel", age = 20 }
-
-main :: IO ()
-main = print me
+me = Me("FallAngel", 20)
+me
 ```
 
 ![Discord](https://dcbadge.vercel.app/api/shield/335803503715024906)
