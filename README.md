@@ -1,11 +1,15 @@
-```jl
-struct Me
-    name::String
-    age::Int
-end
+```zig
+const std = @import("std");
 
-me = Me("FallAngel", 20)
-me
+pub fn main() void {
+    const Person = struct {
+        name: []const u8,
+        age: usize,
+    };
+    
+    const me = Person{.name="FallAngel", .age=20};
+    std.debug.print("{}\n", .{me});
+}
 ```
 
 ![Discord](https://dcbadge.vercel.app/api/shield/335803503715024906)
