@@ -1,14 +1,16 @@
-```zig
-const std = @import("std");
+```odin
+package main
 
-pub fn main() void {
-    const Person = struct {
-        name: []const u8,
-        age: usize,
-    };
-    
-    const me = Person{.name="FallAngel", .age=20};
-    std.debug.print("{}\n", .{me});
+import "core:fmt"
+
+main :: proc() {
+    Person :: struct {
+        name: string,
+        age: uint
+    }
+
+    me := Person{"FallAngel", 20}
+    fmt.printfln("%s - %d", me.name, me.age)
 }
 ```
 
